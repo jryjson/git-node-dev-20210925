@@ -1,7 +1,6 @@
 npm inithttps://www.npmjs.com/package/sqlite3
 
 https://developerhowto.com/2018/12/29/build-a-rest-api-with-node-js-and-express-js/
-
 ------
 
 Installera först med npm, öppna terminlafönstret i samma katalog som du ska köra filerna.
